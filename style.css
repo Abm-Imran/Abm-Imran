@@ -18,7 +18,6 @@ h2 {
 .flexible-container {
     display: flex;
     margin-bottom: 100px;
-    margin-left: 40px;
 
 }
 
@@ -76,6 +75,10 @@ h2 {
     background-repeat: no-repeat;
     margin-bottom: 250px;
     text-align: center;
+}
+
+.exp-area {
+    margin-left: 18px;
 }
 
 #Full-stack-experience {
